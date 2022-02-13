@@ -1,11 +1,11 @@
 {
-    "0x1BE55EE7E2e7E3ff9fA745f807a9FaCf50538a4d": {
+    "0x099D2DCF88a50D6A5cFa076973810379BEa3e59c": {
         "voucher": {
-            "redeemer": "0x1BE55EE7E2e7E3ff9fA745f807a9FaCf50538a4d",
+            "redeemer": "0x099D2DCF88a50D6A5cFa076973810379BEa3e59c",
             "stageId": 1,
             "nonce": 1,
-            "amount": 10
+            "amount": 2
         },
-        "signature": "0xa7e73be6a466fff9c5d71e119da5c6f51a1c102edd4b0a933cad40293628fee05531edcec7e6ebe3f45700f9ac120a2b13e7dbec70e4c327d20c268d88a8040c1c"
+        "signature": "0x462c5570379e9f67e4bffb06527ad9e3e05af5249882f297f0146d265c23c9ad1fd4c7d9c005063b3dbdba89df646da673b439efe225211bf8c4eeeeb3683bee1b"
     }
 }

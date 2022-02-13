@@ -31,12 +31,12 @@ export const VOUCHER_TYPE: Record<string, TypedDataField[]> = {
 
 // Stage #1
 // Type in your start time
-export const STAGE_1_START = getTimestamp(new Date(2022, 1-1, 30, 22, 30));
-export const STAGE_1_END = getTimestamp(new Date(2022, 2-1, 21, 1, 30));
-export const STAGE_1_PRICE = utils.parseEther("0.07");
-export const STAGE_1_SUPPLY = 6999;
+export const STAGE_1_START = getTimestamp(new Date(2022, 2-1, 12, 20, 30));
+export const STAGE_1_END = getTimestamp(new Date(2022, 2-1, 28, 1, 30));
+export const STAGE_1_PRICE = utils.parseEther("0.01");
+export const STAGE_1_SUPPLY = 4;
 export const UNREVEALED_BASE_URI =
-    "ipfs://QmSmy9woJEuEyA57o5cbVHYkF1RLibJfpQiJNqmfEtno6f/";
+    "ipfs://QmXAFpcuEbjH1jummHEsMx9YcVgfRVYAQWSac9VEaMoiGJ/";
 
 // Stage #2 (public)
 export const STAGE_2_START = getTimestamp(new Date(2022, 2-1, 21, 1, 30));
